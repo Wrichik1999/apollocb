@@ -1,0 +1,29 @@
+{
+  "name": "apollocb",
+  "version": "1.0.0",
+  "description": "The website for Apollo CB Consultancy Ltd",
+  "main": "app.js",
+  "scripts": {
+    "run": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wrichik1999/ApolloCB.git"
+  },
+  "keywords": [
+    "Apollo",
+    "CB"
+  ],
+  "author": "Wrichik Biswas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wrichik1999/ApolloCB/issues"
+  },
+  "homepage": "https://github.com/Wrichik1999/ApolloCB#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "nodemailer": "^4.6.7",
+    "url": "^0.11.0"
+  }
+}
